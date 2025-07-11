@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gutenberg Reader</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
